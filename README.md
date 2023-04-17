@@ -19,6 +19,7 @@ Improved version of the Chrome Dino game with interesting gameplay and challengi
 ## Preview
 
   - [Video](https://youtu.be/CKJU5avLumg)
+  - [Image](https://imgur.com/a/fgky3ZQ)
 
 ## Built With
 
