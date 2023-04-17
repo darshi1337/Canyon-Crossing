@@ -5,12 +5,6 @@
 
 Improved version of the Chrome Dino game with interesting gameplay and challenging obstacles
 
-## Getting Started
-
-These instructions will give you a copy of the project up and running on
-your local machine for development and testing purposes. See deployment
-for notes on deploying the project on a live system.
-
 ### Goals
 
   - Changing the Protagonist from Dino to Cowboy to induce better and interesting gameplay as we can give some useful traits and powerups to Cowboy.
