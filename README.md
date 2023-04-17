@@ -1,5 +1,8 @@
 # Canyon Crossing
 
+![forthebadge](https://forthebadge.com/images/badges/made-with-c-sharp.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
+
 Improved version of the Chrome Dino game with interesting gameplay and challenging obstacles
 
 ## Getting Started
